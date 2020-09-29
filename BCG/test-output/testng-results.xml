@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32165" started-at="2020-09-28T14:27:17 IST" finished-at="2020-09-28T14:27:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32165" started-at="2020-09-28T14:27:17 IST" finished-at="2020-09-28T14:27:49 IST">
+      <class name="com.bcg.Tests.FirstExampleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bcg.Tests.FirstExampleTest@57855c9a]" name="setUp" is-config="true" duration-ms="6814" started-at="2020-09-28T14:27:17 IST" finished-at="2020-09-28T14:27:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitledTestCase()[pri:0, instance:com.bcg.Tests.FirstExampleTest@57855c9a]" name="testUntitledTestCase" duration-ms="25285" started-at="2020-09-28T14:27:24 IST" finished-at="2020-09-28T14:27:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitledTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bcg.Tests.FirstExampleTest@57855c9a]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-09-28T14:27:49 IST" finished-at="2020-09-28T14:27:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bcg.Tests.FirstExampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
